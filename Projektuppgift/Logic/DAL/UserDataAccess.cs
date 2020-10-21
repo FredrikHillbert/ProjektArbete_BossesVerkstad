@@ -11,6 +11,7 @@ namespace Logic.DAL
 {
     /// <summary>
     /// HEj freddWard!
+    /// HEJSAN HEJSAN HEJSAN
     /// </summary>
     public class UserDataAccess
     {
