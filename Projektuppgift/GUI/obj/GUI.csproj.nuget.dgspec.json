@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fredr\\OneDrive\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj": {}
+    "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fredr\\OneDrive\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj": {
+    "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fredr\\OneDrive\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj",
+        "projectUniqueName": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj",
         "projectName": "GUI",
-        "projectPath": "C:\\Users\\fredr\\OneDrive\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj",
-        "packagesPath": "C:\\Users\\fredr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fredr\\OneDrive\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\obj\\",
+        "projectPath": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj",
+        "packagesPath": "C:\\Users\\Pontu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\fredr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pontu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\fredr\\OneDrive\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj": {
-                "projectPath": "C:\\Users\\fredr\\OneDrive\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj"
+              "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj": {
+                "projectPath": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj"
               }
             }
           }
@@ -63,24 +63,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fredr\\OneDrive\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj": {
+    "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fredr\\OneDrive\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj",
+        "projectUniqueName": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "C:\\Users\\fredr\\OneDrive\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj",
-        "packagesPath": "C:\\Users\\fredr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fredr\\OneDrive\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\obj\\",
+        "projectPath": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj",
+        "packagesPath": "C:\\Users\\Pontu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\fredr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pontu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -119,7 +119,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
