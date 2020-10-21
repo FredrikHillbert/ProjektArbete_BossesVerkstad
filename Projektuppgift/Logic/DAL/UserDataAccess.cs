@@ -9,6 +9,9 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace Logic.DAL
 {
+    /// <summary>
+    /// HEj freddWard!
+    /// </summary>
     public class UserDataAccess
     {
         private const string path = @"DAL\User.json";
