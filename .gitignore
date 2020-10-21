@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+Projektuppgift/GUI/obj/Debug/netcoreapp3.1/GUI.assets.cache
+*.cache
+Projektuppgift/GUI/obj/Debug/netcoreapp3.1/GUI.assets.cache
+*.cache
+Projektuppgift/GUI/obj/project.nuget.cache
+*.cache
