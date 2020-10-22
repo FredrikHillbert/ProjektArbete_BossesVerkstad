@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "+5t5HJZI88FAdgK9lfH3EBI+X5shPqeSClOWDl9Ou6qAgx8SsjtcoxCffiYXllSy9QYgPJP5ny7CIyUcBmD07A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj",
-=======
-  "dgSpecHash": "XpsLp6uOwaD8v+8YhCSmy/p5oeNSTfMFu/109tIF8AjVYVXfYSV7Tt+2JXZh+LEgTBpMOvlEmqIHAxxLtajGCw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj",
->>>>>>> accffea2e47ee3d542ecdd0becd1ef4f60ac2d6c
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

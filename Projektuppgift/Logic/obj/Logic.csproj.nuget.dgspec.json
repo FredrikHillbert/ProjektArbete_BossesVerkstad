@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj": {}
   },
   "projects": {
@@ -13,29 +12,14 @@
         "projectPath": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj",
         "packagesPath": "C:\\Users\\Pontu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\obj\\",
-=======
-    "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj",
-        "projectName": "Logic",
-        "projectPath": "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj",
-        "packagesPath": "C:\\Users\\Nono\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\obj\\",
->>>>>>> accffea2e47ee3d542ecdd0becd1ef4f60ac2d6c
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-<<<<<<< HEAD
           "C:\\Users\\Pontu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-=======
-          "C:\\Users\\Nono\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> accffea2e47ee3d542ecdd0becd1ef4f60ac2d6c
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
