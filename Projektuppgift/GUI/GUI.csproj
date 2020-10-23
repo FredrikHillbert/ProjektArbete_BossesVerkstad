@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Image\Projekt.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Logic\Logic.csproj" />
   </ItemGroup>
 
@@ -18,6 +22,12 @@
     <Folder Include="Admin\News\" />
     <Folder Include="User\HomePageUser\" />
     <Folder Include="User\WorkshopPageUser\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\Projekt.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
 
 </Project>
