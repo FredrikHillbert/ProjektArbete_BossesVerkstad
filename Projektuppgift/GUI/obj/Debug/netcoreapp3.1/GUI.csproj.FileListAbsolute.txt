@@ -23,3 +23,6 @@ C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\
 C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.dll
 C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
 C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\ButtomDesign\ButtomTheme.baml
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\ButtomDesign\ButtomTheme1.baml
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\App.baml

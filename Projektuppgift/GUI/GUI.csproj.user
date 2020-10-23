@@ -7,10 +7,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="ButtonDesign\ButtomTheme.xaml">
+    <Page Update="ButtomDesign\ButtomTheme.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="ButtonDesign\ButtomTheme1.xaml">
+    <Page Update="ButtomDesign\ButtomTheme1.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Login\LoginPage.xaml">
