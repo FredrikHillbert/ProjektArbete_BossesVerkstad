@@ -10,4 +10,15 @@
     <ProjectReference Include="..\Logic\Logic.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Admin\Employee\" />
+    <Folder Include="Admin\Home\" />
+    <Folder Include="Admin\Workshop\" />
+    <Folder Include="Admin\UserAccount\" />
+    <Folder Include="Admin\News\" />
+    <Folder Include="Image\" />
+    <Folder Include="User\HomePageUser\" />
+    <Folder Include="User\WorkshopPageUser\" />
+  </ItemGroup>
+
 </Project>
