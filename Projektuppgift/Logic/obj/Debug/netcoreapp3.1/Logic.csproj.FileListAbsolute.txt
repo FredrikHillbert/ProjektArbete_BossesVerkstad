@@ -1,0 +1,10 @@
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\Logic\bin\Debug\netcoreapp3.1\DAL\User.json
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\Logic\bin\Debug\netcoreapp3.1\Logic.deps.json
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\Logic\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\Logic\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.csprojAssemblyReference.cache
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfoInputs.cache
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.dll
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\Logic\obj\Debug\netcoreapp3.1\Logic.pdb
