@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\App.xaml
-2-125690110
+460049063
 
 6-249783070
 1931562873543
-Login\LoginPage.xaml;MainWindow.xaml;
+ButtonDesign\ButtomTheme.xaml;ButtonDesign\ButtomTheme1.xaml;Login\LoginPage.xaml;MainWindow.xaml;
 
-False
+True
 
