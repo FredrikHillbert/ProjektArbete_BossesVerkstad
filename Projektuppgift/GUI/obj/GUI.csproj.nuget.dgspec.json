@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj": {}
+    "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj": {
+    "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj",
+        "projectUniqueName": "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj",
         "projectName": "GUI",
-        "projectPath": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj",
-        "packagesPath": "C:\\Users\\Pontu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\obj\\",
+        "projectPath": "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\GUI.csproj",
+        "packagesPath": "C:\\Users\\Nono\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\GUI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Pontu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Nono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -31,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj": {
-                "projectPath": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj"
+              "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj": {
+                "projectPath": "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj"
               }
             }
           }
@@ -67,22 +63,18 @@
         }
       }
     },
-    "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj": {
+    "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj",
+        "projectUniqueName": "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj",
-        "packagesPath": "C:\\Users\\Pontu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pontu\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\obj\\",
+        "projectPath": "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\Logic.csproj",
+        "packagesPath": "C:\\Users\\Nono\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nono\\Documents\\GitHub\\ProjektArbete_BossesVerkstad\\Projektuppgift\\Logic\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Pontu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Nono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
