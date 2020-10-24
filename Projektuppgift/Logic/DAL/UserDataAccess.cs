@@ -5,7 +5,7 @@ using System.IO;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
+using System.Text.Json.Serialization;
 
 namespace Logic.DAL
 {
@@ -28,7 +28,28 @@ namespace Logic.DAL
             string jsonString = File.ReadAllText(path);
             List<User> users = JsonSerializer.Deserialize<List<User>>(jsonString);
 
+            
             return users;
+            
         }
+
+        //public List<User> CreateUsers()
+        //{
+        //    var newUser = new User();
+
+        //    string jsonString = JsonSerializer.Serialize(newUser);
+        //    File.WriteAllText(path, jsonString);
+
+
+
+           
+
+        //}
+
+
+
+
+
+
     }
 }

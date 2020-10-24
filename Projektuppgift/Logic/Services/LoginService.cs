@@ -3,6 +3,8 @@ using Logic.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Microsoft.CSharp.RuntimeBinder;
+using System.Reflection.Metadata;
 
 namespace Logic.Services
 {
@@ -23,5 +25,18 @@ namespace Logic.Services
 
             return users.Exists(user => user.Username.Equals(username) && user.Password.Equals(password));
         }
+
+        //public bool CreateUser(string username, string password)
+        //{
+            
+        //    List<User> users = _db.CreateUsers();
+
+            
+
+        //    return users.Exists(user => user.Username.Equals(username) && user.Password.Equals(password));
+
+        //}
+
+
     }
 }

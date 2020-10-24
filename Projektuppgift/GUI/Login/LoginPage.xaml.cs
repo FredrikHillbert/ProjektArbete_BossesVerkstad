@@ -51,6 +51,40 @@ namespace GUI.Login
                 this.tbUsernam.Clear();
                 this.pbPassword.Clear();
             }
+
+        }
+
+        private void btnReg_Click(object sender, RoutedEventArgs e)
+        {
+
+            //string username = this.tbUsernam.Text;
+            //string password = this.pbPassword.Password;
+
+            //bool successful = _loginService.CreateUser(username, password);
+
+
+            //if (successful)
+            //{
+
+            //    HomePage homePage = new HomePage();
+
+            //    this.NavigationService.Navigate(homePage);
+
+
+
+            //}
+            //else
+            //{
+            //    MessageBox.Show(_errorMsg);
+            //    this.tbUsernam.Clear();
+            //    this.pbPassword.Clear();
+            //}
+
+
+
+
+
+
         }
     }
 }
