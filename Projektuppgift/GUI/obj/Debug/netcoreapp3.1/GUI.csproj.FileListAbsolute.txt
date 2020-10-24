@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 C:\Users\fredr\OneDrive\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\DAL\User.json
 C:\Users\fredr\OneDrive\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.exe
 C:\Users\fredr\OneDrive\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
@@ -26,33 +25,3 @@ C:\Users\fredr\OneDrive\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektupp
 C:\Users\fredr\OneDrive\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.dll
 C:\Users\fredr\OneDrive\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
 C:\Users\fredr\OneDrive\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
-=======
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\DAL\User.json
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.exe
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.dll
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\Logic.dll
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\App.g.cs
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.dll
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\ButtomDesign\ButtomTheme.baml
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\ButtomDesign\ButtomTheme1.baml
-C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\App.baml
->>>>>>> d859bfcca7488a2cf3668c553648ab6fab2c509d
