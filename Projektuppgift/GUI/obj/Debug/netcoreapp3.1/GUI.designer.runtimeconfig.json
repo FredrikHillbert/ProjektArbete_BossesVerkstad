@@ -6,6 +6,7 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "C:\\Users\\fredr\\.dotnet\\store\\|arch|\\|tfm|",
 <<<<<<< Updated upstream
       "C:\\Users\\Nono\\.nuget\\packages"
@@ -13,6 +14,11 @@
       "C:\\Users\\fredr\\.nuget\\packages",
       "C:\\Microsoft\\Xamarin\\NuGet"
 >>>>>>> Stashed changes
+=======
+      "C:\\Users\\Pontu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pontu\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+>>>>>>> d859bfcca7488a2cf3668c553648ab6fab2c509d
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
