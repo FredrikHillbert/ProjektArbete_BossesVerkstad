@@ -6,13 +6,9 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\fredr\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\fredr\\.nuget\\packages",
+      "C:\\Users\\Pontu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pontu\\.nuget\\packages",
       "C:\\Microsoft\\Xamarin\\NuGet"
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
->>>>>>> parent of 593822b... Merge branch 'main' of https://github.com/FredrikHillbert/ProjektArbete_BossesVerkstad into main
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

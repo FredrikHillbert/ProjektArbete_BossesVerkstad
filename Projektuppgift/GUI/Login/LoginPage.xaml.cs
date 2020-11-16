@@ -1,7 +1,14 @@
-﻿using GUI.Home;
+﻿using GUI.Admin.Home;
+using GUI.Mechanics.Home;
+using GUI.Tools;
+using Logic.DAL;
+using Logic.Entities;
+using Logic.Interface;
+using Logic.MyExceptions;
 using Logic.Services;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -13,78 +20,85 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
 namespace GUI.Login
 {
     /// <summary>
-    /// Interaction logic for LoginPage.xaml
+    /// Interaction logic for LogginPage.xaml
     /// </summary>
-    public partial class LoginPage : Page
+    public partial class LogginPage : Page
     {
-        private const string _errorMsg = "Inloggningen misslyckades";
 
-        private LoginService _loginService;
-        public LoginPage()
+     //-------------------------------------------------------------------------------Lägg till knapp för att avsluta
+        public LogginPage()
         {
             InitializeComponent();
-
-            _loginService = new LoginService();
+         
+        }
+        /// <summary>
+        /// If Textbox got focus = Emty string
+        /// </summary>
+        private void LoginUserName_GotFocus(object sender, RoutedEventArgs e)
+        {
+            if (LoginUserName.Text == "Användarnamn") {LoginUserName.Text = string.Empty; }
         }
 
+        /// <summary>
+        /// If Passwordbox got focus = Emty string
+        /// </summary>   
+        private void LoginPassword_GotFocus(object sender, RoutedEventArgs e)
+        {
+            if (LoginPassword.Password == "Password"){LoginPassword.Password = string.Empty; }
+        }
+
+        /// <summary>
+        /// If Username and password is correct, iuserLogin.Login(loggin, password)==True.
+        /// Else Username and password is incorrect, messagebox shows
+        /// </summary>
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            string username = this.tbUsernam.Text;
-            string password = this.pbPassword.Password;
-
-            bool successful = _loginService.Login(username, password);
-
-            if (successful)
+            var loggin = LoginUserName.Text.ToLower();
+            var password = LoginPassword.Password;
+            ILogic adminService = new AdminService();
+            if (adminService.Login(loggin, password) && Isadmin.IsChecked == true)
             {
-
-                HomePage homePage = new HomePage();
-
-                this.NavigationService.Navigate(homePage);
+                HomePageAdmin homePageAdmin = new HomePageAdmin();
+                this.NavigationService.Navigate(homePageAdmin);
+            }
+            else if (adminService.LoginUser(loggin, password))
+            {
+                ILogicUser userService = new UserService();//------------------Håller koll på vem som loggar in!
+                userService.SetUser(loggin);
+        
+                HomePageMechanic homePageMechanic = new HomePageMechanic();
+                this.NavigationService.Navigate(homePageMechanic);
             }
             else
             {
-
-                MessageBox.Show(_errorMsg);
-                this.tbUsernam.Clear();
-                this.pbPassword.Clear();
+                MessageBox.Show(StringTools._inputError, "Error", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
+        }
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            
 
+            try
+            {
+                JsonSetFile jsonSetFile = new JsonSetFile();
+                jsonSetFile.SetJson();
+            }
+            catch (ErrorException)
+            {
+                MessageBox.Show("Filen kunde inte Sparas korrekt!" +
+                    "\n" +
+                    "\n Avsluta och starta om programet!");
+            }
+            Application.Current.Shutdown();
         }
 
-        private void btnReg_Click(object sender, RoutedEventArgs e)
+        private void CheckBox_Checked(object sender, RoutedEventArgs e)
         {
-
-            //string username = this.tbUsernam.Text;
-            //string password = this.pbPassword.Password;
-
-            //bool successful = _loginService.CreateUser(username, password);
-
-
-            //if (successful)
-            //{
-
-            //    HomePage homePage = new HomePage();
-
-            //    this.NavigationService.Navigate(homePage);
-
-
-
-            //}
-            //else
-            //{
-            //    MessageBox.Show(_errorMsg);
-            //    this.tbUsernam.Clear();
-            //    this.pbPassword.Clear();
-            //}
-
-
-
-
-
-
+            Isadmin.IsChecked= true;
         }
     }
 }

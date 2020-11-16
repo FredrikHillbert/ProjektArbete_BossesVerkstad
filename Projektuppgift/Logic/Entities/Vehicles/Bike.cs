@@ -2,14 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Logic.Vehicles
+namespace Logic.Entities
 {
-   public class Bike : Vehicles
+    public class Bike : Orders
     {
-
-
-
-
-
     }
 }

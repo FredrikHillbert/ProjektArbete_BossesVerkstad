@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\fredr\OneDrive\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\obj\Debug\netcoreapp3.1\
 GUI
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\fredr\OneDrive\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\App.xaml
-3-1626550818
+C:\Users\Pontu\Documents\GitHub\ProjektArbete_BossesVerkstad\Projektuppgift\GUI\App.xaml
+171036313413
 
-7-1650271562
-193-1892209091
-Home\HomePage.xaml;Login\LoginPage.xaml;MainWindow.xaml;
+20580744336
+1931562873543
+Admin\Employer\AddEmployer.xaml;Admin\Employer\ChangeEmployer.xaml;Admin\Employer\EmployerOptions.xaml;Admin\Home\HomePageAdmin.xaml;Admin\User\AddUser.xaml;Admin\User\ChangeUserAccount.xaml;Admin\User\UserOptions.xaml;Admin\Workshop\AddCase.xaml;Admin\Workshop\CaseOptions.xaml;Admin\Workshop\ChangeCase.xaml;ButtomDesign\ButtomTheme.xaml;ButtomDesign\ButtomTheme1.xaml;Login\LoginPage.xaml;MainWindow.xaml;Mechanics\Home\HomePageMechanic.xaml;Mechanics\User\Profile.xaml;Mechanics\Workshop\CaseOptionMechanic.xaml;
 
-True
+False
 

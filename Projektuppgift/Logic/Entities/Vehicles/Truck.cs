@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Logic.Vehicles
+namespace Logic.Entities
 {
-   public class Truck : Vehicles
+    public class Truck : Orders
     {
-        public int MaxWeight { get; set; }
+
+        public int MaxLast { get; set; }
 
 
     }

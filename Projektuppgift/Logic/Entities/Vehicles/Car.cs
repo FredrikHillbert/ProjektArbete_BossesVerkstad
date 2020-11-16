@@ -2,14 +2,17 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Logic.Vehicles
+namespace Logic.Entities
 {
-   public class Car : Vehicles
+    public class Car : Orders
     {
-
         public string TypeOfCar { get; set; }
 
-        public bool HaveTowBar { get; set; }
+        public  string HaveTowBar { get; set; }
+
+
+        
+
 
 
     }

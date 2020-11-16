@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Logic.DAL;
+using Logic.Entities;
+using Logic.MyExceptions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +26,20 @@ namespace GUI
         public MainWindow()
         {
             InitializeComponent();
+            JsonGetFile jsonGetFile = new JsonGetFile();
+            try
+            {
+                jsonGetFile.GetJson();
+            }
+            catch (ErrorException)
+            {
+                
+                MessageBox.Show("Filen kunde inte läsasas korrekt!" +
+                    "\n" +
+                    "\n Avsluta och starta om programet!");
+            }
+            
+  
         }
     }
 }

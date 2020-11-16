@@ -5,9 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Update="DAL\User.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+    <Compile Remove="Exceptio\**" />
+    <EmbeddedResource Remove="Exceptio\**" />
+    <None Remove="Exceptio\**" />
   </ItemGroup>
 
 </Project>
